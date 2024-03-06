@@ -1,2 +1,6 @@
 @import "tailwindcss/preflight" layer(base);
 @import "tailwindcss/utilities" layer(utilities);
+
+@theme {
+    --color-red-500: #f56565;
+}
